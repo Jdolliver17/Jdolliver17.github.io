@@ -309,13 +309,13 @@
 	color: #FFFFFF;
 	line-height: 1.15em;
 }#wowslider-container1 .ws_images > ul{
-	animation: wsBasic 20s infinite;
-	-moz-animation: wsBasic 20s infinite;
-	-webkit-animation: wsBasic 20s infinite;
+	animation: wsBasic 15s infinite;
+	-moz-animation: wsBasic 15s infinite;
+	-webkit-animation: wsBasic 15s infinite;
 }
-@keyframes wsBasic{0%{left:-0%} 15%{left:-0%} 25%{left:-100%} 40%{left:-100%} 50%{left:-200%} 65%{left:-200%} 75%{left:-300%} 90%{left:-300%} }
-@-moz-keyframes wsBasic{0%{left:-0%} 15%{left:-0%} 25%{left:-100%} 40%{left:-100%} 50%{left:-200%} 65%{left:-200%} 75%{left:-300%} 90%{left:-300%} }
-@-webkit-keyframes wsBasic{0%{left:-0%} 15%{left:-0%} 25%{left:-100%} 40%{left:-100%} 50%{left:-200%} 65%{left:-200%} 75%{left:-300%} 90%{left:-300%} }
+@keyframes wsBasic{0%{left:-0%} 20%{left:-0%} 33.33%{left:-100%} 53.33%{left:-100%} 66.67%{left:-200%} 86.67%{left:-200%} }
+@-moz-keyframes wsBasic{0%{left:-0%} 20%{left:-0%} 33.33%{left:-100%} 53.33%{left:-100%} 66.67%{left:-200%} 86.67%{left:-200%} }
+@-webkit-keyframes wsBasic{0%{left:-0%} 20%{left:-0%} 33.33%{left:-100%} 53.33%{left:-100%} 66.67%{left:-200%} 86.67%{left:-200%} }
 
 #wowslider-container1 .ws_bullets  a img{
 	text-indent:0;
